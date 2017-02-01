@@ -7,7 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("The square root of " );
+		System.out.println("The square root of me");
 		// TODO Auto-generated method stub
 
 	}
